@@ -26,7 +26,7 @@ Here is what you'll need to order to build this thing. I generally order the par
 | Part # | Qty | Reference | Description | MFR # (link) | Supplier | Notes |
 |--------|-----|-----------|-------------|--------------|----------|-------|
 |1|1|C1|Capacitor 100uF (SMD-1206)|[GRM31CD80J107ME39L](https://www.mouser.com/ProductDetail/81-GRM31CD80J107ME9L)|Mouser||
-|2|1|C2|Capacitor 10uF (SMD-0805)|[VJ0805G106KXQTW1BC](https://www.mouser.com/ProductDetail/77-VJ0805G106KXQTBC)|Mouser||
+|2|1|C2|Capacitor 10uF (SMD-0805)|[GRM21BC81C106ME15L](https://www.mouser.com/ProductDetail/Murata-Electronics/GRM21BC81C106ME15L?qs=sGAEpiMZZMs0AnBnWHyRQKFZIQ7b73cd5p1OjeXSJs7IZ5GPsfC2iQ%3d%3d)|Mouser||
 |3|1|C3|Capacitor 100nF (SMD-0805)|[100nF 50V 0805](https://www.taydaelectronics.com/100nf-50v-smd-ceramic-chip-capacitor.html)|Tayda|If you order 100 of these they will last you a long time.|
 |4|1|C4|Capacitor 1uF (Radial D5L11)|[105CKR100M](https://www.mouser.com/ProductDetail/Illinois-Capacitor-CDE/105CKR100M?qs=sGAEpiMZZMtZ1n0r9vR22fPWwtj8kO8aXBFG7%252b0kMMHBNQpcXdefQA%3d%3d)|Mouser||
 |5|8|CON1--CON8|Barrel Jack|[KLDX-SMT-0202-AP](https://www.mouser.com/ProductDetail/806-KLDX-SMT0202AP)|Mouser|These are sized to fit the fairy lights linked below.|
@@ -37,7 +37,7 @@ Here is what you'll need to order to build this thing. I generally order the par
 |10|1|R9|Resistor 0 Ohm (SMD-0805)|[0 Ohm 1/8W 1% 0805](https://www.taydaelectronics.com/50-x-smd-chip-resistors-0-ohm-1-8w-1-0805.html)|Tayda|If you order 100 of these they will last you a long time.|
 |11|1|R10|Resistor 100 Ohm (SMD-0805)|[100 Ohm 1/8W 1% 0805](https://www.taydaelectronics.com/50-x-smd-chip-resistors-100-ohm-1-8w-1-0805.html)|Tayda|If you order 100 of these they will last you a long time.|
 |12|1|R11|Resistor 10k Ohm (SMD-0805)|[10K Ohm 1/8W 1% 0805](https://www.taydaelectronics.com/50-x-smd-chip-resistors-10k-ohm-1-8w-1-0805.html)|Tayda|If you order 100 of these they will last you a long time.|
-|13|2|RR1| RR2|Resistor Array (Bussed) 10k Ohm (SIP-9)|[4609X-101-103LF](https://www.mouser.com/ProductDetail/652-4609X-1LF-10K)|Mouser|8 Resistors| 9 Pins|
+|13|2|RR1--RR2|Resistor Array (Bussed) 10k Ohm (SIP-9)|[4609X-101-103LF](https://www.mouser.com/ProductDetail/652-4609X-1LF-10K)|Mouser|8 Resistors| 9 Pins|
 |14|1|U1|IR Reciever (38 khz)|[TSOP34438](https://www.mouser.com/ProductDetail/522-FZT600TA)|Mouser||
 |15|1|X1|Crystal Oscillator (with Caps)|[CSTLS8M00G53-A0](https://www.mouser.com/ProductDetail/81-CSTLS8M00G53-A0)|Mouser||
 |16|1|NA|Power Supply 40W|[EPS-45-5-C](https://www.mouser.com/ProductDetail/709-EPS45-5-C)|Mouser||
@@ -45,7 +45,7 @@ Here is what you'll need to order to build this thing. I generally order the par
 |18|2|NA|Connector Housing 4POS|[VHR-4N](https://www.digikey.com/product-detail/en/jst-sales-america-inc/VHR-4N/455-1185-ND/608626)|Digi-key|To get power from the power supply to the board|
 |19|1|NA|Connector Housing 3POS|[VHR-3N](https://www.digikey.com/product-detail/en/jst-sales-america-inc/VHR-3N/455-1184-ND/608625)|Digi-key|To get power from the wall to the power supply|
 |20|1|NA|Remote Control|[COM-11759](https://www.sparkfun.com/products/11759)|Sparkfun|The software also supports the little white Apple remote control| but the sparkfun one allows more features.|
-|21|1|NA|Power Cord||stayonline.com|The power supply insists on being grounded| and I am happy to oblige it. You can use an old PC power cable with one end cut off (choose wisely)| or you can order to length.|
-|22|8|NA|Fairy Lights|[B00I7M7C40](https://www.amazon.com/gp/product/B00I7M7C40/)|Amazon|It is pretty vital to get the ones with the barrel power connector that matches the barrel jacks (Item 5). Minimum 1| Maximum 8|
+|21|1|NA|Power Cord||stayonline.com|The power supply insists on being grounded, and I am happy to oblige it. You can use an old PC power cable with one end cut off (choose wisely), or you can order to length.|
+|22|8|NA|Fairy Lights|[B00I7M7C40](https://www.amazon.com/gp/product/B00I7M7C40/)|Amazon|It is pretty vital to get the ones with the barrel power connector that matches the barrel jacks (Item 5). Minimum 1, maximum 8|
 |23|1|NA|Battery for Remote Control|CR2025|Lots of places|You figure it out|
 |24|1|NA|28 pin DIP IC Socket|[28 pin DIP IC Socket](https://www.taydaelectronics.com/28-pin-dip-ic-socket-adaptor-solder-type.html)|Tayda|This is what you'll actually solder to the board. Cram the ATMega328 into this.
