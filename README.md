@@ -49,3 +49,8 @@ Here is what you'll need to order to build this thing. I generally order the par
 |22|8|NA|Fairy Lights|[B00I7M7C40](https://www.amazon.com/gp/product/B00I7M7C40/)|Amazon|It is pretty vital to get the ones with the barrel power connector that matches the barrel jacks (Item 5). Minimum 1, maximum 8|
 |23|1|NA|Battery for Remote Control|CR2025|Lots of places|You figure it out|
 |24|1|NA|28 pin DIP IC Socket|[28 pin DIP IC Socket](https://www.taydaelectronics.com/28-pin-dip-ic-socket-adaptor-solder-type.html)|Tayda|This is what you'll actually solder to the board. Cram the ATMega328 into this.
+
+
+## The Case
+
+The case is cut from 0.177 inch thick acyrlic sheet using a laser cutter. The [specific laser cutter](http://atxhs.org/wiki/Hosted/10000045) I used is at the ATX Hackerspace; it does not compensate for kerf so the files themselves compensate for the laser width. The case parts should fit together snugly so no adhesive is needed for assembly, although the little bits for wall mounting will need to be bonded onto the bottom so a little cyanoacrylate adhesive will be useful.
