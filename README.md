@@ -8,7 +8,7 @@ The goal of this project is to provide an easy interface for controlling and pow
 
 * 40 Watt Power supply
 * ATMega328P 
-* IR Reciever and Remote Control
+* IR Reciever and [Remote Control](https://www.sparkfun.com/products/11759)
 * Barrel Plugs for 8 light strands
 * Laser cut acrylic case
 
