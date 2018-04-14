@@ -15,13 +15,13 @@ The goal of this project is to provide an easy interface for controlling and pow
 ## What's included
 
 * Code for the ATMega328P,
-* KiCAD files for the control board. [OSHPark project for this board](https://oshpark.com/shared_projects/VDE5yBSG),
-* Bill of Materials (here in this README),
+* KiCAD files for the control board ([OSHPark project for this board](https://oshpark.com/shared_projects/VDE5yBSG)),
+* Bill of Materials (below),
 * SVG files for cutting the case parts.
 
 ## Bill of Materials
 
-Here is what you'll need to order to build this thing. I generally order the parts from a few different suppliers due to availability and price so bear with me. 
+Here is what you'll need to order to build this thing. I generally order the parts from a few different suppliers due to availability and price so bear with me. You'll also need a board (obvs), you can order some from OSHPark by following the link above, or you can etch your own. Your choice! 
 
 | Part # | Qty | Reference | Description | MFR # (link) | Supplier | Notes |
 |--------|-----|-----------|-------------|--------------|----------|-------|
